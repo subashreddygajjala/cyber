@@ -19,7 +19,7 @@ If you are developing a production application, we recommend updating the config
 export default defineConfig([
   globalIgnores(['dist']),
   {
-    files: ['**/*.{ts,tsx}'],
+    files: ['**/*.{tstsx}'],
     extends: [
       // Other configs...
 
